@@ -1,6 +1,7 @@
 # whatsapp-message-send-without-selenium
 Python has some other libraries and modules using which we can send any message on whatsapp web without using selenium.
 
+> To run this project install the module *pyautogui* by : ```pip install pyautogui```
 
 ## Working Project:
 
